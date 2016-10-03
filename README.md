@@ -1,2 +1,2 @@
 # Analysis of a generic pcap file containing a DNS-based DDoS attack
-ALL the detailed description is located at the [pcap_dns_ddos_analysis.ipynb file](pcap_dns_ddos_analysis.ipynb)!
+ALL the detailed description is located at the [pcap_analysis_dsn_attack_example.ipynb file](pcap_analysis_dsn_attack_example.ipynb)!
